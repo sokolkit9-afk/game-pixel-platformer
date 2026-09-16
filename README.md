@@ -4,6 +4,10 @@
 Kenney под лицензией **CC0** (public domain, можно использовать в коммерческих
 проектах без указания авторства). Интерфейс полностью на русском языке.
 
+<img width="1083" height="542" alt="Screenshot_3" src="https://github.com/user-attachments/assets/8f5257bc-bf7b-44c4-931b-70f9b493721e" />
+<img width="1084" height="545" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b0d5aec4-b0ec-464e-922d-3fc7fe897838" />
+
+
 ## Запуск
 
 Нужен Godot 4.7 (подойдёт и 4.4+).
